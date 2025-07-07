@@ -177,7 +177,16 @@ export default function Index() {
               vps hosting hong kong
             </a>{" "}
             combines performance, security, and peace of mind so you can focus
-            on your business while we keep you online.
+            on your business while we keep you online. Learn more about{" "}
+            <a
+              href="https://en.wikipedia.org/wiki/Virtual_private_server"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline hover:no-underline"
+            >
+              virtual private server technology
+            </a>{" "}
+            and its benefits.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-8">
             <span className="text-sm">🚀 Instant Setup</span>
